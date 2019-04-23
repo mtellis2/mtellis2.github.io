@@ -4,7 +4,7 @@ date: 2019-04-23
 tags: [python, executable, data science]
 header:
     # image: "/images/sanFran.jpg"
-excerpt: "Data Science, Python_eaglebulldog
+excerpt: "Data Science, PythonExecutable
 Executable"
 mathjax: "true"
 ---
