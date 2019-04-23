@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Ellis"
-  avatar           : "/images/disneyTrip.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Greensboro, NC"
   email            :
@@ -130,22 +130,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/M_elli5"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/mtellis2"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/michael-ellis-72962276/"
 
 
 # Reading Files
