@@ -4,8 +4,7 @@ date: 2019-04-23
 tags: [python, data science]
 header:
     # image: "/images/sanFran.jpg"
-excerpt: "Data Science, Python Executable
-Executable"
+excerpt: "Data Science, Python_Executable"
 mathjax: "true"
 ---
 
