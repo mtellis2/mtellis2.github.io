@@ -13,8 +13,6 @@ toc: true
 ---
 
 # H1 Heading
-## H2 Heading
-### H3 Heading
 
 Here's some basic text.
 
