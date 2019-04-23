@@ -1,6 +1,9 @@
 ---
+layout: single
+classes: wide
 title: "About"
 permalink: /about/
+author_profile: true
 header:
     image: "/images/sanFran.jpg"
 ---
