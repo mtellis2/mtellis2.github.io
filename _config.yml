@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Michael Ellis"
 title_separator          : "-"
 name                     : "Michael Ellis"
-description              : "Data Science Portfolio"
+description              : "Mostly a Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Ellis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/disneyTrip.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Greensboro, NC"
   email            :
@@ -121,7 +121,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mtellis2"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/michael-ellis-72962276/"
 
