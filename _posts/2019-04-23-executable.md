@@ -1,7 +1,7 @@
 ---
 title: "Creating a Python Executable"
 date: 2019-04-23
-tags: [python_executable, data science]
+tags: [python, data science]
 header:
     # image: "/images/sanFran.jpg"
 excerpt: "Data Science, Python Executable
