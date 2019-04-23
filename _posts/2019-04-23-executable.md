@@ -28,7 +28,6 @@ Here's a numbered list:
 2. test2
 3. test3
 
-
 image technique 1:
 <img src="{{ site.url }}{{ site.baseurl }}/images/sanFran.jpg" alt="san fran image">
 
