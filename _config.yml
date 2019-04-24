@@ -107,34 +107,34 @@ analytics:
 # Site Author
 author:
   name             : "Michael Ellis"
-  avatar           : "/images/bio-photo.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://mtellis2.github.io/images/bio-photo.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Greensboro, NC"
   email            :
   links:
-    - label: "Email"
+    - #label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:michael.ellis.010@gmail.com
-    - label: "Twitter"
+    - #label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/M_elli5"
-    - label: "GitHub"
+    - #label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mtellis2"
-    - label: "LinkedIn"
+    - #label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/michael-ellis-72962276/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - #label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/M_elli5"
-    - label: "GitHub"
+    - #label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mtellis2"
-    - label: "LinkedIn"
+    - #label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/michael-ellis-72962276/"
 
