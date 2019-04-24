@@ -107,36 +107,40 @@ analytics:
 # Site Author
 author:
   name             : "Michael Ellis"
-  avatar           : "https://mtellis2.github.io/images/bio-photo.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://mtellis2.github.io/images/disneyTrip.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Greensboro, NC"
   email            :
   links:
-    - #label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    #- label: "Email"
+    - icon: "fas fa-fw fa-envelope-square"
       url: mailto:michael.ellis.010@gmail.com
-    - #label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #- label: "Twitter"
+    - icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/M_elli5"
-    - #label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    #- label: "GitHub"
+    - icon: "fab fa-fw fa-github"
       url: "https://github.com/mtellis2"
-    - #label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+    #- label: "LinkedIn"
+    - icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/michael-ellis-72962276/"
 
 # Site Footer
 footer:
   links:
-    - #label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/M_elli5"
-    - #label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mtellis2"
-    - #label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/michael-ellis-72962276/"
+    email: mailto:michael.ellis.010@gmail.com
+    twitter: M_elli5
+    github: mtellis2
+    linkedin: www.linkedin.com/in/michael-ellis-72962276/
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/M_elli5"
+    # - #label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/mtellis2"
+    # - #label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://www.linkedin.com/in/michael-ellis-72962276/"
 
 
 # Reading Files
