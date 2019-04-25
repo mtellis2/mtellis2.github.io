@@ -6,6 +6,7 @@ permalink: /about/
 author_profile: true
 header:
     image: "/images/sanFran.jpg"
+    caption: "San Francisco - 2019"
 ---
 
 I'm a graduate student, finishing up my degree at the University of North Carolina
