@@ -1,6 +1,6 @@
 ---
 title: "Data Science Posts by Year"
-permalink: /datascience/
+permalink: /blogposts/
 layout: posts
 author_profile: true
 header:
