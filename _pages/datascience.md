@@ -1,7 +1,7 @@
 ---
-title: "Data Science Posts by Tags"
+title: "Data Science Posts by Year"
 permalink: /datascience/
-layout: tags
+layout: archive
 author_profile: true
 header:
     image: "/images/sanFran.jpg"
