@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Psychology, University of North Carolina at Greensboro, 2013
+* M.S. in Computer Science, University of North Carolina at Greensboro, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017 - Current: Data Analyst Intern
+  * Center for Creative Leadership
+  * Duties included:
+    * Built and maintained Tableau dashboards to assist team in finding insights.
+    * Helped to transform data into informative and interactive visualizations utilizing Tableau.
+    * Assisted in creating data documentation to help the organization better understand the data.
+    * Assisted in data migration for projects using SSIS.
+    * Performed Tableau visualization testing.
+  * Supervisor: Lisa Smith
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014 - Fall 2018: Research Assistant
+  * United Parcel Service (UPS)
+  * Duties included:
+    * Supervised activities of seven package handlers to ensure duties were accomplished, and company standards were met.
+    * Trained new employees on loading, and was directly in charge of daily and monthly safety training for employees.
+  * Supervisor: Jimmy Corbin
 
 Skills
 ======
@@ -54,6 +60,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
