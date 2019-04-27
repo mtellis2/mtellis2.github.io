@@ -5,7 +5,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 header:
-    image: "/images/sanFran.jpg"
+    image: "/assets/images/sanFran.jpg"
     caption: "San Francisco - 2019"
 ---
 
